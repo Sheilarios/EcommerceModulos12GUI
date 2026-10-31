@@ -1,0 +1,21 @@
+id,nombre,categoria,precio,nivel
+100,Teclado mecanico,2,149.90,Premium
+101,Mouse optico,3,49.90,Economico
+102,Monitor 24 pulgadas,4,599.00,Premium
+103,Audifonos USB,2,89.50,Economico
+104,Laptop basica,5,1899.00,Premium
+105,Webcam HD,6,129.90,Economico
+106,Memoria USB 64GB,7,35.00,Economico
+107,SSD 1TB,8,399.00,Premium
+108,Mouse gamer,3,179.90,Premium
+109,Teclado compacto,2,79.90,Economico
+110,Base refrigerante,9,95.00,Economico
+111,Router WiFi,10,249.90,Premium
+112,Parlantes,11,119.90,Economico
+113,Microfono,12,299.00,Premium
+114,Tablet,13,899.00,Premium
+115,Cable HDMI,14,25.00,Economico
+116,Adaptador USB-C,15,59.90,Economico
+117,Impresora,16,499.00,Premium
+118,Silla ergonomica,17,750.00,Premium
+119,Pad mouse,18,29.90,Economico
