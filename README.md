@@ -1,4 +1,4 @@
-# Backend E-commerce — Módulos 1 y 2 (GUI para Visual Studio 2022)
+# Backend E-commerce — Módulos 1 y 2 
 
 Esta entrega contiene el **Módulo 1: Catálogo** y el **Módulo 2: Configurador**. El Módulo 3 (Asignación Greedy) no forma parte de esta versión y no se ejecuta desde la interfaz; se deja previsto para integrarlo en una siguiente etapa.
 
